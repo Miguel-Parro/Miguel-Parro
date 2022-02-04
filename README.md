@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Miguel-Parro
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter
+- 📫 You can reach me at miguelparrodev@gmail.com
